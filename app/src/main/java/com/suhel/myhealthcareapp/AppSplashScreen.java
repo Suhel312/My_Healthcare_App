@@ -21,6 +21,6 @@ public class AppSplashScreen extends AppCompatActivity {
                 finish();
 
             }
-        },3000);
+        },2000);
     }
 }
